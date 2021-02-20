@@ -13,6 +13,7 @@ app.use(express.json());
 
 function createNewNote(body, db) {
   const note = body;
+  console.log(note);
   db.push(note);
   fs.writeFile('./db/db.json', JSON.stringify(db), function(err) {
     if (err) {
