@@ -4,7 +4,7 @@
 This project helps the user write, save, and delete notes to keep track of tasks that need completed.
 
 ## Demonstration Video
-To view a demonstration of how this application works please click on this YouTube link https://www.youtube.com/watch?v=QUHm4Y2-NPg&feature=youtu.be.
+![](https://media.giphy.com/media/j2K7DTlKI5MuiIaXbo/giphy.gif)
 
 ## Features
 * Created server.js that connects the front-end and the back-end.
